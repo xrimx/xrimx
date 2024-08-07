@@ -1,10 +1,8 @@
 <h1 align="center">H3110, I'm xrimx <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xrimx/xrimx">
-</p>
 
----
+
+
 
 ### 💻 Who Am I?
 
@@ -15,7 +13,7 @@ I'm a human, N!&&A, currently learning
   <img src="https://github-readme-stats.vercel.app/api?username=xrimx&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Your GitHub stats">
 </p>
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white">
@@ -34,8 +32,6 @@ I'm a human, N!&&A, currently learning
 ### 🌐 Contact
 
 currently i don't have any social accounts
-
-AndWhyContactYouWannaBeMyLove ? 
 
 ---
 
